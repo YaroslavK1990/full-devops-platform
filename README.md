@@ -6,6 +6,10 @@ This project demonstrates a production-like DevOps environment using modern clou
 
 The goal is to simulate a real-world infrastructure setup with CI/CD, containerization, and Kubernetes orchestration.
 
+## Project Diagrams
+
+![Diagram](assets/Diagram.jpeg)
+
 ## Why Kubernetes (K8s)?
 
 In this project, Kubernetes is not just a tool for running containers—it is a comprehensive platform for managing the application's entire lifecycle. Here is the technical justification for our architectural choice:
