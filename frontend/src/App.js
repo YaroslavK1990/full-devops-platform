@@ -5,8 +5,7 @@ function App() {
   const [title, setTitle] = useState("");
   const [description, setDescription] = useState("");
 
-  const API_URL = "http://host.docker.internal:8000";
-
+  const API_URL = "http://localhost:8000";
   useEffect(() => {
     fetchTasks();
   }, []);
